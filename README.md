@@ -1,1 +1,1 @@
-# projetos-python
+# Meus projetos aprendendo Python e Lógica de Programação
